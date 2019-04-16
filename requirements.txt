@@ -1,4 +1,4 @@
-tensorflow==2.0.0
+tensorflow==1.13.1
 beautifulsoup4==4.7.1
 networkx==2.2
 backcall==0.1.0
